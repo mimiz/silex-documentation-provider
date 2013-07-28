@@ -8,7 +8,7 @@
  */
 namespace Mimiz\Tests\Silex\Provider;
 
-require_once __DIR__."/../../../../../../../vendor/autoload.php";
+require_once __DIR__."/../../../../../vendor/autoload.php";
 require_once __DIR__."/../../../../../src/mimiz/Silex/Provider/DocumentationProvider.php";
 
 use Mimiz\Silex\Provider\DocumentationProvider;
