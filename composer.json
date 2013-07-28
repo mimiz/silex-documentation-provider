@@ -1,0 +1,26 @@
+{
+    "name": "mimiz/silex-documentation-provider",
+    "description": "Add documentation for your project",
+    "minimum-stability": "stable",
+
+    "license":"MIT",
+    "authors": [
+        {
+            "name": "Rémi Goyard",
+            "email": "rgoyard@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "~1.1.&"
+    },
+    "require-dev": {
+        "symfony/browser-kit": "2.3.*",
+        "symfony/css-selector": "2.3.x-dev",
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Mimiz": "src/"
+        }
+    }
+}
