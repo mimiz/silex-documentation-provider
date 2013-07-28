@@ -1,6 +1,8 @@
 Silex Documentation Provider
 ============================
 
+[![Build Status](https://travis-ci.org/mimiz/silex-documentation-provider.png)](https://travis-ci.org/mimiz/silex-documentation-provider)
+
  This Provider allows you to create a project documentation folder where you will be able to write all the documentation
  needed for developpers, for example describe the .htaccess file, or describe the directory structure, or even some
  development rules.
